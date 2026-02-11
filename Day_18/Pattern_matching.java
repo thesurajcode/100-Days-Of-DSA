@@ -2,8 +2,8 @@ package Day_18;
 
 public class Pattern_matching {
     public static void main(String[] args){
-        String Text = "codeLeuetLeet";
-        String Pattern = "Leet";
+        String Text = "Leet";
+        String Pattern = "codeLeuetLeet";
 
         int m = Text.length();
         int n = Pattern.length();
